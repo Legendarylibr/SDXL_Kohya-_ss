@@ -1,0 +1,17 @@
+# Python/cache
+__pycache__/
+*.pyc
+
+# Env and secrets
+*.env
+session.env
+
+# Training artifacts
+training/kohya/output/
+training/kohya/logs/
+training/kohya/datasets/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
